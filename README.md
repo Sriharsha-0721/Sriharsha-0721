@@ -68,6 +68,6 @@
 
 ## 🚀 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriharsha-0721&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://stats.vercel.app/api?username=Sriharsha-0721)
 
 ###
