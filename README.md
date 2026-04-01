@@ -66,9 +66,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sriharsha-0721&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sriharsha-0721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2&custom_title=##%20%F0%9F%9A%80%20My%20Coding%20Stats" height="150" alt="languages graph"  />
-</div>
+## 🚀 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriharsha-0721&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ###
