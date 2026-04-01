@@ -57,11 +57,6 @@ Created a web-based complaint management platform.
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sriharsha-0721&show_icons=true&theme=tokyonight" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sriharsha-0721&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 <h3 align="left">🌐 Connect With Me</h3>
