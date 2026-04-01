@@ -63,8 +63,13 @@ Created a web-based complaint management platform.
 <h3 align="left">🌐 Connect With Me</h3>
 
 <p>
-📧 Email: sriharshabobbi52@gmail.com <br>
-💻 GitHub: https://github.com/Sriharsha-0721
+<a href="mailto:sriharshabobbi52@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/Sriharsha Ch.V.N/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 ---
